@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Bds04Application {
+public class DesafioAUTHEntregaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Bds04Application.class, args);
+		SpringApplication.run(DesafioAUTHEntregaApplication.class, args);
 	}
 
 }
