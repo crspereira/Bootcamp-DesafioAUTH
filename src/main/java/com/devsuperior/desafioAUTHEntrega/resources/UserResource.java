@@ -17,7 +17,7 @@ import com.devsuperior.desafioAUTHEntrega.services.UserService;
 @RequestMapping(value = "/users")
 public class UserResource implements Serializable {
 	private static final long serialVersionUID = 1L;
-	
+
 	@Autowired
 	private UserService service;
 
